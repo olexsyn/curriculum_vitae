@@ -2,6 +2,18 @@
 
 This page is a copy of [my LinkedIn account](https://www.linkedin.com/in/olexsyn/). You can go there if you wish.
 
+### About
+
+- Linux: Debian (+Ubuntu, Mint, Lite Linux), Manjaro. Windows: up to XP
+- Python (in studying), Perl, JavaScript (AJAX, JSON, jQuery), bash
+- SQL (MySQL, SQLite)
+- HTML5, CSS3 (+Bootstrap), XML, XHTML, WML
+- Apache (server administration, Server Side Includes)
+- RegExp
+- Git, SVN
+- Adobe Photoshop, Adobe Illustrator, GIMP
+
+
 ### Experience
 
 ----
@@ -17,7 +29,7 @@ _May 2010 – Jan 2013_ `(2 yrs 9 mos)`
 - page makeup
 - software testing
 
-Mail.UA now is a part of Mail.ru service (http://mail.ru)
+Mail.UA now is a part of Mail.ru service ([http://mail.ru](http://mail.ru))
 
 ----
 
@@ -37,11 +49,11 @@ _Jun 2001 – Feb 2010_ `(8 yrs 9 mos)`
 - translation and localization (Ukrainian) of System's software, users manual, testing, documentation
 - design layout preparation (scratch cards, printed promotional products, presentations, banners, logos), experience of registration TM
 
-In 2009 the payments technology of PayCash was bought by Yandex (http://yandex.ru).
+In 2009 the payments technology of PayCash was bought by Yandex ([http://yandex.ru](http://yandex.ru)).
 
 ----
 
-***JSC Farmak*** – Pharmaceutical company, http://farmak.ua
+***JSC Farmak*** – Pharmaceutical company, [http://farmak.ua](http://farmak.ua)
 
 **Engineer of CAM department**
 
@@ -53,4 +65,36 @@ _Feb 1999 – Jun 2001_ `(2 yrs 5 mos)`
 - laying and maintenance network, PC assembling and configuring
 
 Certificate of "[Good Manufacturing Practice and validation](/img/gmp_cert.jpg)" (2001, G.M.Project)
+
+
+### Education
+
+***Kyiv National University of Technologies and Design***
+
+`1993 – 1998`
+
+**Automation of technological processes and manufacturing** -> Engineer’s Degree, _Grade Good_
+
+[en.knutd.edu.ua](https://en.knutd.edu.ua/)
+
+----
+
+***Kyiv College of Light Industry***
+
+`1988 – 1993`
+
+**Exploitation of automated systems** -> Technician-electrician Specialist, _Diploma with honours_
+
+----
+
+***CyberBionic Systematics***
+
+`2013`
+
+CyberBionic Systematics approved courses:
+
+- HTML5 & CSS3, [certificate 1](/img/html_cert.jpg)
+- JavaScript Advanced, [certificate 2](/img/js-a_cert.jpg)
+
+[edu.cbsystematics.com](https://edu.cbsystematics.com/ua)
 
