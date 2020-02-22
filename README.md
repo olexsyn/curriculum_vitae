@@ -2,6 +2,8 @@
 
 This page is a copy of [my LinkedIn account](https://www.linkedin.com/in/olexsyn/). You can go there if you wish.
 
+```
+```
 ### About
 
 - Linux: Debian (+Ubuntu, Mint, Lite Linux), Manjaro. Windows: up to XP
@@ -14,9 +16,9 @@ This page is a copy of [my LinkedIn account](https://www.linkedin.com/in/olexsyn
 - Adobe Photoshop, Adobe Illustrator, GIMP
 
 
+```
+```
 ### Experience
-
-----
 
 ***Mail.UA / UMail.net*** – Web mail services
 
@@ -31,7 +33,7 @@ _May 2010 – Jan 2013_ `(2 yrs 9 mos)`
 
 Mail.UA now is a part of Mail.ru service ([http://mail.ru](http://mail.ru))
 
-----
+---
 
 ***PayCash Ukraine*** – The international system of internet payments
 
@@ -51,7 +53,7 @@ _Jun 2001 – Feb 2010_ `(8 yrs 9 mos)`
 
 In 2009 the payments technology of PayCash was bought by Yandex ([http://yandex.ru](http://yandex.ru)).
 
-----
+---
 
 ***JSC Farmak*** – Pharmaceutical company, [http://farmak.ua](http://farmak.ua)
 
@@ -67,6 +69,8 @@ _Feb 1999 – Jun 2001_ `(2 yrs 5 mos)`
 Certificate of "[Good Manufacturing Practice and validation](/img/gmp_cert.jpg)" (2001, G.M.Project)
 
 
+```
+```
 ### Education
 
 ***Kyiv National University of Technologies and Design***
@@ -77,7 +81,7 @@ Certificate of "[Good Manufacturing Practice and validation](/img/gmp_cert.jpg)"
 
 [en.knutd.edu.ua](https://en.knutd.edu.ua/)
 
-----
+---
 
 ***Kyiv College of Light Industry***
 
@@ -85,7 +89,7 @@ Certificate of "[Good Manufacturing Practice and validation](/img/gmp_cert.jpg)"
 
 **Exploitation of automated systems** -> Technician-electrician Specialist, _Diploma with honours_
 
-----
+---
 
 ***CyberBionic Systematics***
 
@@ -98,3 +102,6 @@ CyberBionic Systematics approved courses:
 
 [edu.cbsystematics.com](https://edu.cbsystematics.com/ua)
 
+
+```
+```
