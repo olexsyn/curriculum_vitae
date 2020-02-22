@@ -6,11 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Experience
 
-#### Mail.UA / UMail.net
+***Mail.UA / UMail.net*** – Web mail services
 
-Web mail services
-
-_**Software Engineer**_
+**Software Engineer**
 
 _May 2010 – Jan 2013_ `(2 yrs 9 mos)`
 
@@ -21,11 +19,9 @@ _May 2010 – Jan 2013_ `(2 yrs 9 mos)`
 
 Mail.UA now is a part of Mail.ru service (http://mail.ru)
 
-#### PayCash Ukraine
+***PayCash Ukraine*** – The international system of internet payments
 
-PayCash – The international system of internet payments
-
-_**Software Engineer**_
+**Software Engineer**
 
 _Jun 2001 – Feb 2010_ `(8 yrs 9 mos)`
 
@@ -42,11 +38,9 @@ _Jun 2001 – Feb 2010_ `(8 yrs 9 mos)`
 In 2009 the payments technology of PayCash was bought by Yandex (http://yandex.ru).
 
 
-#### JSC Farmak
+***JSC Farmak*** – Pharmaceutical company, http://farmak.ua
 
-Pharmaceutical company, http://farmak.ua
-
-_**Engineer of CAM department**_
+**Engineer of CAM department**
 
 _Feb 1999 – Jun 2001_ `(2 yrs 5 mos)`
 
@@ -55,7 +49,7 @@ _Feb 1999 – Jun 2001_ `(2 yrs 5 mos)`
 - creation and support of the corporate website
 - laying and maintenance network, PC assembling and configuring
 
-Certificate of "Good Manufacturing Practice and validation" (June 4-8, 2001) G.M.Project
+Certificate of "[Good Manufacturing Practice and validation](/img/gmp_cert.jpg)" (2001, G.M.Project)
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
