@@ -1,10 +1,62 @@
-## Welcome to GitHub Pages
+## Olexandr Synyaschok
 
 You can use the [editor on GitHub](https://github.com/olexsyn/cv/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Experience
+
+#### Mail.UA / UMail.net
+
+Web mail services
+
+_**Software Engineer**_
+
+_May 2010 – Jan 2013_ `(2 yrs 9 mos)`
+
+- support for existing and development of new functional user interface
+- the improvement of the service admins
+- page makeup
+- software testing
+
+Mail.UA now is a part of Mail.ru service (http://mail.ru)
+
+#### PayCash Ukraine
+
+PayCash – The international system of internet payments
+
+_**Software Engineer**_
+
+_Jun 2001 – Feb 2010_ `(8 yrs 9 mos)`
+
+(from 2009 – Internet.Money, http://imoney.ua)
+
+- development and maintenance of web- and intranet-applications
+- automatic mail processing scripts (filters, lists, orders); scripts of optimization databases; archiving, informers, handlers of content
+- creation and support websites of the company, domain registration (admin-c)
+- technical support of users of the payment system
+- advising and support of online shops to connect to the System
+- translation and localization (Ukrainian) of System's software, users manual, testing, documentation
+- design layout preparation (scratch cards, printed promotional products, presentations, banners, logos), experience of registration TM
+
+In 2009 the payments technology of PayCash was bought by Yandex (http://yandex.ru).
+
+
+#### JSC Farmak
+
+Pharmaceutical company, http://farmak.ua
+
+_**Engineer of CAM department**_
+
+_Feb 1999 – Jun 2001_ `(2 yrs 5 mos)`
+
+- development and support of accounting, warehouse, transport software
+- training, consulting and technical support of company's users
+- creation and support of the corporate website
+- laying and maintenance network, PC assembling and configuring
+
+Certificate of "Good Manufacturing Practice and validation" (June 4-8, 2001) G.M.Project
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
