@@ -28,7 +28,7 @@ Short link to this page: [bit.ly/olex_cv](http://bit.ly/olex_cv)
 
 **Software Engineer**
 
-_May 2010 – Jan 2013_ `(2 yrs 9 mos)` ![star](/img/star16.png)![star](/img/star16.png)![star](/img/star16.png)
+_May 2010 – Jan 2013_ `(2 yrs 9 mos)` ![1](/img/star.png)![2](/img/star.png)![3](/img/star.png) years
 
 - support for existing and development of new functional user interface
 - the improvement of the service admins
@@ -43,7 +43,7 @@ Mail.UA now is a part of Mail.ru service ([mail.ru](http://mail.ru))
 
 **Software Engineer**
 
-_Jun 2001 – Feb 2010_ `(8 yrs 9 mos)` ![star](/img/star16.png)![star](/img/star16.png)![star](/img/star16.png)![star](/img/star16.png)![star](/img/star16.png)![star](/img/star16.png)![star](/img/star16.png)![star](/img/star16.png)![star](/img/star16.png)
+_Jun 2001 – Feb 2010_ `(8 yrs 9 mos)` ![1](/img/star.png)![2](/img/star.png)![3](/img/star.png)![4](/img/star.png)![5](/img/star.png)![6](/img/star.png)![7](/img/star.png)![8](/img/star.png)![9](/img/star.png) years
 
 (from 2009 – Internet.Money)
 
@@ -63,7 +63,7 @@ In 2009 the payments technology of PayCash was bought by Yandex ([yandex.ru](htt
 
 **Engineer of CAM department**
 
-_Feb 1999 – Jun 2001_ `(2 yrs 5 mos)` ![star](/img/star16.png)![star](/img/star16.png)![star](/img/star16.png)
+_Feb 1999 – Jun 2001_ `(2 yrs 5 mos)` ![1](/img/star.png)![2](/img/star.png)![3](/img/star.png) years
 
 - development and support of accounting, warehouse, transport software
 - training, consulting and technical support of company's users
