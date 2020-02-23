@@ -6,6 +6,7 @@ Short link to this page: [bit.ly/olex_cv](http://bit.ly/olex_cv)
 
 ```
 ```
+![tech](/img/tech.svg)
 ### About
 
 - Linux: Debian (+Ubuntu, Mint, Lite Linux), Manjaro. Windows: up to XP
@@ -20,13 +21,14 @@ Short link to this page: [bit.ly/olex_cv](http://bit.ly/olex_cv)
 
 ```
 ```
+![work](/img/work.svg)
 ### Experience
 
 ***Mail.UA / UMail.net*** – Web mail services
 
 **Software Engineer**
 
-_May 2010 – Jan 2013_ `(2 yrs 9 mos)` ![star](/img/star.svg)
+_May 2010 – Jan 2013_ `(2 yrs 9 mos)` ![star](/img/star16.png)![star](/img/star16.png)![star](/img/star16.png)
 
 - support for existing and development of new functional user interface
 - the improvement of the service admins
@@ -41,7 +43,7 @@ Mail.UA now is a part of Mail.ru service ([mail.ru](http://mail.ru))
 
 **Software Engineer**
 
-_Jun 2001 – Feb 2010_ `(8 yrs 9 mos)` ![star](/img/star16.png)
+_Jun 2001 – Feb 2010_ `(8 yrs 9 mos)` ![star](/img/star16.png)![star](/img/star16.png)![star](/img/star16.png)![star](/img/star16.png)![star](/img/star16.png)![star](/img/star16.png)![star](/img/star16.png)![star](/img/star16.png)![star](/img/star16.png)
 
 (from 2009 – Internet.Money)
 
@@ -61,7 +63,7 @@ In 2009 the payments technology of PayCash was bought by Yandex ([yandex.ru](htt
 
 **Engineer of CAM department**
 
-_Feb 1999 – Jun 2001_ `(2 yrs 5 mos)`
+_Feb 1999 – Jun 2001_ `(2 yrs 5 mos)` ![star](/img/star16.png)![star](/img/star16.png)![star](/img/star16.png)
 
 - development and support of accounting, warehouse, transport software
 - training, consulting and technical support of company's users
@@ -74,6 +76,7 @@ Certificate of "[Good Manufacturing Practice and validation](/img/gmp_cert.jpg)"
 
 ```
 ```
+![edu](/img/edu.svg)
 ### Education
 
 ***Kyiv National University of Technologies and Design***
