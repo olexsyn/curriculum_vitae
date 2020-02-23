@@ -26,7 +26,7 @@ Short link to this page: [bit.ly/olex_cv](http://bit.ly/olex_cv)
 
 **Software Engineer**
 
-_May 2010 – Jan 2013_ `(2 yrs 9 mos)`
+_May 2010 – Jan 2013_ `(2 yrs 9 mos)` ![star](/img/star.swg)
 
 - support for existing and development of new functional user interface
 - the improvement of the service admins
@@ -41,7 +41,7 @@ Mail.UA now is a part of Mail.ru service ([mail.ru](http://mail.ru))
 
 **Software Engineer**
 
-_Jun 2001 – Feb 2010_ `(8 yrs 9 mos)`
+_Jun 2001 – Feb 2010_ `(8 yrs 9 mos)` ![star](/img/star16.png)
 
 (from 2009 – Internet.Money)
 
