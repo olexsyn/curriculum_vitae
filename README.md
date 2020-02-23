@@ -6,8 +6,8 @@ Short link to this page: [bit.ly/olex_cv](http://bit.ly/olex_cv)
 
 ```
 ```
-![tech](/img/tech.svg)
-### About
+
+### About ![tech](/img/tech.svg)
 
 - Linux: Debian (+Ubuntu, Mint, Lite Linux), Manjaro. Windows: up to XP
 - Python (in studying), Perl, JavaScript (AJAX, JSON, jQuery), bash
@@ -21,8 +21,8 @@ Short link to this page: [bit.ly/olex_cv](http://bit.ly/olex_cv)
 
 ```
 ```
-![work](/img/work.svg)
-### Experience
+
+### . ![work](/img/work.svg) Experience
 
 ***Mail.UA / UMail.net*** – Web mail services
 
