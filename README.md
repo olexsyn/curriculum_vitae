@@ -2,6 +2,8 @@
 
 This page is a copy of [my LinkedIn account](https://www.linkedin.com/in/olexsyn/). You can go there if you wish.
 
+Short link to this page: [bit.ly/olex_cv](http://bit.ly/olex_cv)
+
 ```
 ```
 ### About
