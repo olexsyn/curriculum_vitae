@@ -26,7 +26,7 @@ Short link to this page: [bit.ly/olex_cv](http://bit.ly/olex_cv)
 
 **Software Engineer**
 
-_May 2010 – Jan 2013_ `(2 yrs 9 mos)` ![star](/img/star.swg)
+_May 2010 – Jan 2013_ `(2 yrs 9 mos)` ![star](/img/star.svg)
 
 - support for existing and development of new functional user interface
 - the improvement of the service admins
