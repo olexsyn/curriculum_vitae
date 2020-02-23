@@ -33,7 +33,7 @@ _May 2010 – Jan 2013_ `(2 yrs 9 mos)`
 - page makeup
 - software testing
 
-Mail.UA now is a part of Mail.ru service ([http://mail.ru](http://mail.ru))
+Mail.UA now is a part of Mail.ru service ([mail.ru](http://mail.ru))
 
 ---
 
@@ -43,7 +43,7 @@ Mail.UA now is a part of Mail.ru service ([http://mail.ru](http://mail.ru))
 
 _Jun 2001 – Feb 2010_ `(8 yrs 9 mos)`
 
-(from 2009 – Internet.Money, http://imoney.ua)
+(from 2009 – Internet.Money)
 
 - development and maintenance of web- and intranet-applications
 - automatic mail processing scripts (filters, lists, orders); scripts of optimization databases; archiving, informers, handlers of content
@@ -53,11 +53,11 @@ _Jun 2001 – Feb 2010_ `(8 yrs 9 mos)`
 - translation and localization (Ukrainian) of System's software, users manual, testing, documentation
 - design layout preparation (scratch cards, printed promotional products, presentations, banners, logos), experience of registration TM
 
-In 2009 the payments technology of PayCash was bought by Yandex ([http://yandex.ru](http://yandex.ru)).
+In 2009 the payments technology of PayCash was bought by Yandex ([yandex.ru](http://yandex.ru)).
 
 ---
 
-***JSC Farmak*** – Pharmaceutical company, [http://farmak.ua](http://farmak.ua)
+***JSC Farmak*** – Pharmaceutical company, [farmak.ua](http://farmak.ua)
 
 **Engineer of CAM department**
 
@@ -65,8 +65,9 @@ _Feb 1999 – Jun 2001_ `(2 yrs 5 mos)`
 
 - development and support of accounting, warehouse, transport software
 - training, consulting and technical support of company's users
-- creation and support of the corporate website
 - laying and maintenance network, PC assembling and configuring
+- creation and support of the 1st version of corporate website
+- redesign of corporate logo
 
 Certificate of "[Good Manufacturing Practice and validation](/img/gmp_cert.jpg)" (2001, G.M.Project)
 
