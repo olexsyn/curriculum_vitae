@@ -7,7 +7,7 @@ Short link to this page: [bit.ly/olex_cv](http://bit.ly/olex_cv)
 ```
 ```
 
-### About ![tech](/img/tech.svg)
+### &nbsp;![tech](/img/tech.svg)&nbsp; About
 
 - Linux: Debian (+Ubuntu, Mint, Lite Linux), Manjaro. Windows: up to XP
 - Python (in studying), Perl, JavaScript (AJAX, JSON, jQuery), bash
@@ -22,7 +22,7 @@ Short link to this page: [bit.ly/olex_cv](http://bit.ly/olex_cv)
 ```
 ```
 
-### . ![work](/img/work.svg) Experience
+### &nbsp;![work](/img/work.svg)&nbsp; Experience
 
 ***Mail.UA / UMail.net*** – Web mail services
 
@@ -76,8 +76,8 @@ Certificate of "[Good Manufacturing Practice and validation](/img/gmp_cert.jpg)"
 
 ```
 ```
-![edu](/img/edu.svg)
-### Education
+
+### &nbsp;![edu](/img/edu.svg)&nbsp; Education
 
 ***Kyiv National University of Technologies and Design***
 
