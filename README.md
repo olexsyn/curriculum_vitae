@@ -1,6 +1,6 @@
 ## Olexandr Synyaschok
 
-This page is a copy of my LinkedIn account. If you want [you can go there](https://www.linkedin.com/in/olexsyn/).
+This page is a copy of my **LinkedIn** account. If you want [you can go there](https://www.linkedin.com/in/olexsyn/).
 
 ```
 ```
