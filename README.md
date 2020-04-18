@@ -107,6 +107,10 @@ CyberBionic Systematics approved courses:
 <https://edu.cbsystematics.com/ua>
 
 
+тест <span class="text-red">A</span>
+
+<p class="text-red">A</p>
+
 ```
 ```
 [s]: /img/star.png
