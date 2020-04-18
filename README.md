@@ -2,8 +2,6 @@
 
 This page is a copy of [my LinkedIn account](https://www.linkedin.com/in/olexsyn/). You can go there if you wish.
 
-Short link to this page: [bit.ly/olex_cv](http://bit.ly/olex_cv)
-
 ```
 ```
 
@@ -35,7 +33,7 @@ _May 2010 – Jan 2013_ &nbsp; ![1][s]![2][s]![3][sh] _yrs_
 - page makeup
 - software testing
 
-Mail.UA now is a part of Mail.ru service ([mail.ru](http://mail.ru))
+Mail.UA now is a part of [Mail.Ru](https://mail.ru/) service
 
 ---
 
@@ -55,11 +53,11 @@ _Jun 2001 – Feb 2010_ &nbsp; ![1][s]![2][s]![3][s]![4][s]![5][s]![6][s]![7][s]
 - translation and localization (Ukrainian) of System's software, users manual, testing, documentation
 - design layout preparation (scratch cards, printed promotional products, presentations, banners, logos), experience of registration TM
 
-In 2009 the payments technology of PayCash was bought by Yandex ([yandex.ru](http://yandex.ru)).
+In 2009 the payments technology of PayCash was bought by [Yandex](https://yandex.ru/).
 
 ---
 
-***JSC Farmak*** – Pharmaceutical company, [farmak.ua](http://farmak.ua)
+***JSC Farmak*** – Pharmaceutical company, <https://farmak.ua/>
 
 **Engineer of CAM department**
 
@@ -81,17 +79,17 @@ Certificate of "[Good Manufacturing Practice and validation](/img/gmp_cert.jpg)"
 
 ***Kyiv National University of Technologies and Design***
 
-`1993 – 1998`
+<code><samp>1993 – 1998</samp></code>
 
 **Automation of technological processes and manufacturing** -> Engineer’s Degree, _Grade Good_
 
-[en.knutd.edu.ua](https://en.knutd.edu.ua/)
+<https://en.knutd.edu.ua/>
 
 ---
 
 ***Kyiv College of Light Industry***
 
-`1988 – 1993`
+<code><samp>1988 – 1993</samp></code>
 
 **Exploitation of automated systems** -> Technician-electrician Specialist, _Diploma with honours_
 
@@ -99,14 +97,14 @@ Certificate of "[Good Manufacturing Practice and validation](/img/gmp_cert.jpg)"
 
 ***CyberBionic Systematics***
 
-`2013`
+<code><samp>2013</samp></code>
 
 CyberBionic Systematics approved courses:
 
 - HTML5 & CSS3, [certificate 1](/img/html_cert.jpg)
 - JavaScript Advanced, [certificate 2](/img/js-a_cert.jpg)
 
-[edu.cbsystematics.com](https://edu.cbsystematics.com/ua)
+<https://edu.cbsystematics.com/ua>
 
 
 ```
