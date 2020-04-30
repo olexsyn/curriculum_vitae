@@ -1,13 +1,7 @@
 ## Olexandr Synyaschok
 
-<table width="100%">
-  <tbody>
-    <tr>
-      <td>My LinkedIn account: <a href="https://www.linkedin.com/in/olexsyn/" target="_blank">linkedin.com/in/olexsyn/</a></td>
-      <td>Short link to this page: <a href="https://bit.ly/olex-cv">bit.ly/olex-cv</a></td>
-    </tr>
-  </tbody>
-</table>
+| &nbsp; My LinkedIn account: <a href="https://www.linkedin.com/in/olexsyn/" target="_blank">linkedin.com/in/olexsyn/ &nbsp;
+| &nbsp; Short link to this page: <a href="https://bit.ly/olex-cv">bit.ly/olex-cv</a> &nbsp; |
 
 ```
 ```

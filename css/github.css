@@ -86,7 +86,7 @@ svg:not(:root) {
 }
 code, kbd, pre, samp {
 	font-family: "Droid Sans Mono", "Courier New", monospace;
-	font-size: 1em
+	font-size: 0.85em
 }
 figure {
 	margin: 1em 40px
@@ -173,7 +173,7 @@ body {
 	background-color: #fff
 }
 a {
-	color: #1A52BC
+	color: #1A52BC;
 	text-decoration: none
 }
 a:hover {
