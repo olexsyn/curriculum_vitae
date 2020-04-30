@@ -1,6 +1,6 @@
 ## Olexandr Synyaschok
 
-| Short link to this page is [bit.ly/olex-cv](https://bit.ly/olex-cv) | My LinkedIn account: [linkedin.com/in/olexsyn/](https://www.linkedin.com/in/olexsyn/) |
+| Short link to this page: [bit.ly/olex-cv](https://bit.ly/olex-cv) | My LinkedIn account: [linkedin.com/in/olexsyn/](https://www.linkedin.com/in/olexsyn/) |
 
 ```
 ```
