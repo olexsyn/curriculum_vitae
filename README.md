@@ -41,7 +41,7 @@ Mail.UA now is a part of <a href="https://mail.ru/" target="_blank">Mail.Ru</a> 
 
 **Software Engineer**
 
-_Jun 2001 – Feb 2010_ &nbsp; ![1][s]![2][s]![3][s]![4][s]![5][s]![6][s]![7][s]![8][s]![9][sh] _yrs_
+_Jun 2001 – Feb 2010_ &nbsp; &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734; _yrs_
 
 (from 2009 – Internet.Money)
 
@@ -61,7 +61,7 @@ In 2009 the payments technology of PayCash was bought by (<a href="https://yande
 
 **Engineer of CAM department**
 
-_Feb 1999 – Jun 2001_ &nbsp; ![1][s]![2][s]![3][se] _yrs_
+_Feb 1999 – Jun 2001_ &nbsp; &#9733;&#9733;&#9734; _yrs_
 
 - development and support of accounting, warehouse, transport software
 - training, consulting and technical support of company's users
