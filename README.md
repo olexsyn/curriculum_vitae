@@ -26,7 +26,7 @@
 
 **Software Engineer**
 
-_May 2010 – Jan 2013_ &nbsp; ![1][s]![2][s]![3][sh] _yrs_
+_May 2010 – Jan 2013_ &nbsp; &#1645; ![1][s]![2][s]![3][sh] _yrs_
 
 - support for existing and development of new functional user interface
 - the improvement of the service admins
